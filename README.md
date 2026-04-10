@@ -25,7 +25,9 @@ This repository serves as a hands-on assignment designed by **ChaiCode**. Over 5
 - **Day 4: Comic-Con Parking System** (`/04-comic-con-parking-system`) ✅
   - A database design for an event-based parking management system.
   - Covers vehicle categories, parking slots, entry/exit tracking, and fee management.
-- **Day 5:** *Coming soon...*
+- **Day 5: Smart Elevator Control System** (`/05-smart-elevator-control`) ✅
+  - A database design for a multi-building intelligent elevator management platform.
+  - Covers buildings, floors, elevator shafts, elevator–floor mapping, ride requests, ride assignments, maintenance tracking, and usage history logging.
 
 ## 🛠️ Tools & Technologies Used
 - ER Diagramming Tools (like Eraser)
